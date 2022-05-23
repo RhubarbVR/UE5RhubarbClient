@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kSfqRMPhKy17lkvz/gbrWPgkIEQT+xBw3OXDRpYPZhzuz6kvqH/JEmENpEvrul8jjhL2Avl15cxSwvZG8nkPcw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\RhubarbVR\\UE5RhubarbClient\\UE5Client\\Framework\\UnrealEngine.Framework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Faolan\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\6.0.0\\microsoft.codeanalysis.netanalyzers.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

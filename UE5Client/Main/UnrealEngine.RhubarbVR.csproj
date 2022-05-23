@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFrameworks>net6.0</TargetFrameworks>
+    <Platforms>AnyCPU</Platforms>
+    <BaseOutputPath>..\..\Managed</BaseOutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LibVLCSharp" Version="3.6.6" />
+    <PackageReference Include="System.ServiceModel.Primitives" Version="4.10.0-preview1.22261.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\RhubarbVR\RBullet\RBullet.csproj" />
+    <ProjectReference Include="..\..\..\RhubarbVR\RhuEngine\RhuEngine.csproj" />
+    <ProjectReference Include="..\Framework\UnrealEngine.Framework.csproj" />
+  </ItemGroup>
+
+</Project>

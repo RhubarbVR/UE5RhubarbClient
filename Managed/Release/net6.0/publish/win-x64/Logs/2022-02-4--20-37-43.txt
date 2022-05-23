@@ -1,0 +1,14 @@
+[8:37:43 PM]: Launched with no arguments
+[8:37:43 PM]: Engine started Can Render False Can Audio False Can input False
+[8:37:43 PM]: Problem reading cookies from disk: System.IO.FileNotFoundException
+[8:37:43 PM]: Built local User with id1
+[8:37:43 PM]: Built local User with id1
+[8:37:43 PM]: Done loading world P 
+[8:37:43 PM]: Done loading world L Local World
+[8:37:43 PM]: Building Local World
+Not Login> [8:37:44 PM]: Path /api/userinfo/FromUserID?id=  data: {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.4","title":"Not Found","status":404,"traceId":"00-645366a045af9e4caecefaaa14f508df-6606888d49713940-00"}
+[8:37:44 PM]: Path /api/userinfo/FromUserID?id=null  data: {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.4","title":"Not Found","status":404,"traceId":"00-792389e4ee5ea349bbc8d2feb2416e99-085f0645f44ccb47-00"}
+[8:37:44 PM]: Path /api/userinfo/FromUserID?id=null  data: {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.4","title":"Not Found","status":404,"traceId":"00-18c548865b86574c9d230f825552287b-81ad322a8a5aef43-00"}
+[8:37:44 PM]: Path /api/userinfo/FromUserID?id=null  data: {"type":"https://tools.ietf.org/html/rfc7231#section-6.5.4","title":"Not Found","status":404,"traceId":"00-e52b0df16f6e7245b1de57d13c95f094-ca32b3d087dc8648-00"}
+[8:37:44 PM]: Built Local World
+[8:37:44 PM]: Engine Started

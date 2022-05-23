@@ -1,0 +1,193 @@
+{
+  "InputSettings": {
+    "RightHanded": true,
+    "HeadBasedMovement": false,
+    "KeyboardInputSettings": {
+      "MousePositive": "ObjectPull",
+      "MouseNegevitve": "ObjectPush",
+      "Sprint": {
+        "MainKey": "Shift",
+        "SecondKey": "None",
+        "DoubleKeyOne": "None",
+        "DoubleKeyTwo": "None"
+      },
+      "SlowCraw": {
+        "MainKey": "Ctrl",
+        "SecondKey": "None",
+        "DoubleKeyOne": "None",
+        "DoubleKeyTwo": "None"
+      },
+      "Forward": {
+        "MainKey": "W",
+        "SecondKey": "None",
+        "DoubleKeyOne": "None",
+        "DoubleKeyTwo": "None"
+      },
+      "Back": {
+        "MainKey": "S",
+        "SecondKey": "None",
+        "DoubleKeyOne": "None",
+        "DoubleKeyTwo": "None"
+      },
+      "Right": {
+        "MainKey": "D",
+        "SecondKey": "None",
+        "DoubleKeyOne": "None",
+        "DoubleKeyTwo": "None"
+      },
+      "Left": {
+        "MainKey": "A",
+        "SecondKey": "None",
+        "DoubleKeyOne": "None",
+        "DoubleKeyTwo": "None"
+      },
+      "RotateRight": {
+        "MainKey": "X",
+        "SecondKey": "None",
+        "DoubleKeyOne": "None",
+        "DoubleKeyTwo": "None"
+      },
+      "RotateLeft": {
+        "MainKey": "C",
+        "SecondKey": "None",
+        "DoubleKeyOne": "None",
+        "DoubleKeyTwo": "None"
+      },
+      "Jump": {
+        "MainKey": "Space",
+        "SecondKey": "None",
+        "DoubleKeyOne": "None",
+        "DoubleKeyTwo": "None"
+      },
+      "FlyUP": {
+        "MainKey": "E",
+        "SecondKey": "None",
+        "DoubleKeyOne": "None",
+        "DoubleKeyTwo": "None"
+      },
+      "FlyDown": {
+        "MainKey": "Q",
+        "SecondKey": "None",
+        "DoubleKeyOne": "None",
+        "DoubleKeyTwo": "None"
+      },
+      "Dash": {
+        "MainKey": "Esc",
+        "SecondKey": "None",
+        "DoubleKeyOne": "Ctrl",
+        "DoubleKeyTwo": "Space"
+      },
+      "SwitchWorld": {
+        "MainKey": "F1",
+        "SecondKey": "None",
+        "DoubleKeyOne": "Ctrl",
+        "DoubleKeyTwo": "Tab"
+      },
+      "Grab": {
+        "MainKey": "MouseRight",
+        "SecondKey": "None",
+        "DoubleKeyOne": "None",
+        "DoubleKeyTwo": "None"
+      },
+      "ContextMenu": {
+        "MainKey": "MouseRight",
+        "SecondKey": "None",
+        "DoubleKeyOne": "None",
+        "DoubleKeyTwo": "None"
+      },
+      "SecondaryPress": {
+        "MainKey": "MouseCenter",
+        "SecondKey": "None",
+        "DoubleKeyOne": "T",
+        "DoubleKeyTwo": "None"
+      },
+      "PrimaryPress": {
+        "MainKey": "MouseLeft",
+        "SecondKey": "None",
+        "DoubleKeyOne": "None",
+        "DoubleKeyTwo": "None"
+      },
+      "ObjectPull": {
+        "MainKey": "None",
+        "SecondKey": "None",
+        "DoubleKeyOne": "None",
+        "DoubleKeyTwo": "None"
+      },
+      "ObjectPush": {
+        "MainKey": "None",
+        "SecondKey": "None",
+        "DoubleKeyOne": "None",
+        "DoubleKeyTwo": "None"
+      }
+    },
+    "GamePadInputSettings": {},
+    "MainControllerInputSettings": {
+      "StickLocker": false,
+      "Grip": {
+        "positiveX": "Grab",
+        "negevitveX": "None"
+      },
+      "StickPress": {
+        "Pressed": "StickLocker",
+        "Hold": "None"
+      },
+      "X1": {
+        "Pressed": "ContextMenu",
+        "Hold": "OpenDash"
+      },
+      "X2": {
+        "Pressed": "Secondary",
+        "Hold": "None"
+      },
+      "Stick": {
+        "positiveX": "Left",
+        "negevitveX": "Right",
+        "positiveY": "Forward",
+        "negevitveY": "Back"
+      },
+      "Trigger": {
+        "positiveX": "Primary",
+        "negevitveX": "None"
+      }
+    },
+    "SecondaryControllerInputSettings": {
+      "StickLocker": false,
+      "Grip": {
+        "positiveX": "Grab",
+        "negevitveX": "None"
+      },
+      "StickPress": {
+        "Pressed": "StickLocker",
+        "Hold": "None"
+      },
+      "X1": {
+        "Pressed": "ContextMenu",
+        "Hold": "OpenDash"
+      },
+      "X2": {
+        "Pressed": "Secondary",
+        "Hold": "None"
+      },
+      "Stick": {
+        "positiveX": "RotateLeft",
+        "negevitveX": "RotateRight",
+        "positiveY": "ObjectPush",
+        "negevitveY": "ObjectPull"
+      },
+      "Trigger": {
+        "positiveX": "Primary",
+        "negevitveX": "None"
+      }
+    }
+  },
+  "UISettings": {
+    "RectRounding": 0.0,
+    "RectRoundingSteps": 5,
+    "DashRoundingSteps": 10,
+    "TopOffset": 2.0,
+    "FrontBindAngle": 135.0,
+    "FrontBindRadus": 7.0,
+    "DashOffsetForward": 0.1,
+    "DashOffsetDown": 0.1
+  }
+}

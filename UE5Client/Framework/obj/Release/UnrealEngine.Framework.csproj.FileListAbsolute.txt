@@ -1,0 +1,14 @@
+C:\Projects\RhubarbVR\UE5RhubarbClient\UE5Client\Framework\bin\Release\UnrealEngine.Framework.deps.json
+C:\Projects\RhubarbVR\UE5RhubarbClient\UE5Client\Framework\bin\Release\UnrealEngine.Framework.dll
+C:\Projects\RhubarbVR\UE5RhubarbClient\UE5Client\Framework\bin\Release\UnrealEngine.Framework.pdb
+C:\Projects\RhubarbVR\UE5RhubarbClient\UE5Client\Framework\bin\Release\UnrealEngine.Framework.xml
+C:\Projects\RhubarbVR\UE5RhubarbClient\UE5Client\Framework\obj\Release\UnrealEngine.Framework.csproj.AssemblyReference.cache
+C:\Projects\RhubarbVR\UE5RhubarbClient\UE5Client\Framework\obj\Release\UnrealEngine.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\RhubarbVR\UE5RhubarbClient\UE5Client\Framework\obj\Release\UnrealEngine.Framework.AssemblyInfoInputs.cache
+C:\Projects\RhubarbVR\UE5RhubarbClient\UE5Client\Framework\obj\Release\UnrealEngine.Framework.AssemblyInfo.cs
+C:\Projects\RhubarbVR\UE5RhubarbClient\UE5Client\Framework\obj\Release\UnrealEngine.Framework.csproj.CoreCompileInputs.cache
+C:\Projects\RhubarbVR\UE5RhubarbClient\UE5Client\Framework\obj\Release\UnrealEngine.Framework.dll
+C:\Projects\RhubarbVR\UE5RhubarbClient\UE5Client\Framework\obj\Release\refint\UnrealEngine.Framework.dll
+C:\Projects\RhubarbVR\UE5RhubarbClient\UE5Client\Framework\obj\Release\UnrealEngine.Framework.xml
+C:\Projects\RhubarbVR\UE5RhubarbClient\UE5Client\Framework\obj\Release\UnrealEngine.Framework.pdb
+C:\Projects\RhubarbVR\UE5RhubarbClient\UE5Client\Framework\obj\Release\ref\UnrealEngine.Framework.dll
